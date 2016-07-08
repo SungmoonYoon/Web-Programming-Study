@@ -6,9 +6,9 @@ Let's learn how to develop web program
 
 
 1. 개발 환경 셋팅
- - 나(윤성문)은 GitHub에서 만든 에디터 (: ATOM)을 쓰려 했으나, 깃허브와의 연동방법을 찾아내지 못하고 결국 포기했다.
- - 이후에 검색을 통해 SublimeText3와 GitHub연동에 대한 글을 읽었고 성공했다.(조금 귀찮음..)
- - 링크 : http://unikys.tistory.com/331 를 통해 시도해보고, 혹시 다른 에디터(이클립스는 연동이 쉬운데, 웹개발에 안어울리는 것 같아서 안했음..)를 사용한다면 방법을 공유해줘
+ - JAVA언어를 이용한 웹개발을 하기위해 최신판 jdk와, Eclipse(NEON)을 설치한다. (환경변수 설정까지, 참고 영상: https://opentutorials.org/module/516/5556).
+ - 이후에 검색을 통해 Eclipse와 GitHub 연동을 해야한다.
+ - Apache Tomcat을 설치한다 (최신버전9.0 : http://tomcat.apache.org/download-90.cgi , 강의영상 : https://www.youtube.com/watch?v=jWVlAclnIXo&list=PLqaSEyuwXkSoeqnsxz0gYWZMihw519Kfr&index=2)
 
 
 2. 강의 링크와 강의 자료
