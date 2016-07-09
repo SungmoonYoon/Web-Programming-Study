@@ -13,3 +13,6 @@ Let's learn how to develop web program
 
 2. 강의 링크와 강의 자료
  - 강의 링크 (https://www.youtube.com/playlist?list=PLqaSEyuwXkSoeqnsxz0gYWZMihw519Kfr)
+
+3. 수업 진도 상황 
+ - 160709 6.Servlet Container와 Servlet의 관계 까지
